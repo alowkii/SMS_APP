@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS_APP</string>
+    <string name="new_sms">New SMS</string>
+    <string name="your_phone_number">Your Phone Number:</string>
+    <string name="from">From:</string>
+    <string name="sms_body">SMS Body:</string>
+    <string name="contact_no">Contact No:</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.sms_app" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#5FB300</item>
+        <item name="colorPrimaryVariant">#00B31E</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#03A8DA</item>
+        <item name="colorSecondaryVariant">#013D87</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#00B3A4</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:windowTranslucentStatus" tools:ignore="NewApi">true</item>
+    </style>
+</resources>
