@@ -5,7 +5,7 @@
 ### An application to receive encrypted sms, send encrypted sms and display all inbox decrypted messages into listview. Uses AES-GCM for encryption and decryption.
 
 
-<img src="https://github.com/alowkii/SMS_APP/assets/51901277/267e86e3-602b-4ada-84f2-94cbbcab559d" width="300" paddingLeft="200">
+<img src="https://github.com/alowkii/SMS_APP/assets/51901277/267e86e3-602b-4ada-84f2-94cbbcab559d" width="300" style="padding-right: 20px;">
 <img src="https://github.com/alowkii/SMS_APP/assets/51901277/f4dc3324-9db7-4f0a-9ff0-ae04bfbaf6e1" width="300">
 <img src="https://github.com/alowkii/SMS_APP/assets/51901277/9324e1e9-ab83-4580-9ec8-2d58a60a7719" width="300">
 <img src="https://github.com/alowkii/SMS_APP/assets/51901277/f25f16ad-fcd7-41f9-8874-eb9e6cd3439b" width="300">
