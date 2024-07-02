@@ -2,7 +2,7 @@
 #### Developed by, Aalok Pandit
 
 ## AIM: 
-### An application to receive encrypted sms, send encrypted sms and display all inbox decrypted messages into listview. 
+### An application to receive encrypted sms, send encrypted sms and display all inbox decrypted messages into listview. Uses AES-GCM for encryption and decryption.
 
 
 <img src="https://github.com/alowkii/SMS_APP/assets/51901277/267e86e3-602b-4ada-84f2-94cbbcab559d" width="300">
